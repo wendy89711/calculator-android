@@ -29,6 +29,7 @@ public class CalcuActivity extends AppCompatActivity implements View.OnClickList
     private String nowOperator;
     private boolean ndNumIsZero = false;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
